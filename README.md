@@ -1,4 +1,4 @@
-# Blockchain pour la sécurisation des transactions bancaires
+# Blockchain pour la sécurisation des transactions bancaires au Cameroun
 
 Implémentation du système décrit dans le mémoire de master
 **« La technologie blockchain pour la sécurisation des transactions bancaires »**
