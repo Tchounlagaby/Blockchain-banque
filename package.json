@@ -1,0 +1,15 @@
+{
+  "name": "blockchain-banque",
+  "version": "1.0.0",
+  "description": "Blockchain pour la securisation des transactions bancaires (memoire de master, Node.js + Express).",
+  "main": "src/api.js",
+  "scripts": {
+    "start": "node src/api.js",
+    "test": "node src/test.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sha256": "^0.2.0"
+  },
+  "license": "MIT"
+}
